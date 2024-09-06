@@ -1,0 +1,249 @@
+resolution=1280x720  model=03  bitrate=100000    acc====0.01859558316080055
+resolution=1280x720  model=03  bitrate=200000    acc====0.01808053471718068
+resolution=1280x720  model=03  bitrate=300000    acc====0.06430719797800542
+resolution=1280x720  model=03  bitrate=400000    acc====0.14556966634804017
+resolution=854x480  model=03  bitrate=100000    acc====0.01814938650031818
+resolution=854x480  model=03  bitrate=200000    acc====0.14154123234713295
+resolution=854x480  model=03  bitrate=300000    acc====0.29892139260659867
+resolution=854x480  model=03  bitrate=400000    acc====0.43481505308481594
+resolution=600x360  model=03  bitrate=100000    acc====0.15850317953268264
+resolution=600x360  model=03  bitrate=200000    acc====0.40061368410747294
+resolution=600x360  model=03  bitrate=300000    acc====0.5183378907517812
+resolution=600x360  model=03  bitrate=400000    acc====0.5923716680157379
+resolution=480x270  model=03  bitrate=100000    acc====0.20625259546067
+resolution=480x270  model=03  bitrate=200000    acc====0.4200288674978116
+resolution=480x270  model=03  bitrate=300000    acc====0.5086260751529668
+resolution=480x270  model=03  bitrate=400000    acc====0.5761422241309311
+resolution=320x240  model=03  bitrate=100000    acc====0.2900978776227223
+resolution=320x240  model=03  bitrate=200000    acc====0.4865801598907189
+resolution=320x240  model=03  bitrate=300000    acc====0.5848974507892534
+resolution=320x240  model=03  bitrate=400000    acc====0.6573555698724389
+resolution=320x240  model=03  bitrate=500000    acc====0.7033308812504182
+resolution=320x240  model=03  bitrate=600000    acc====0.7232723015633801
+resolution=320x240  model=03  bitrate=700000    acc====0.7506626823779562
+resolution=320x240  model=03  bitrate=800000    acc====0.7633297594321734
+resolution=320x240  model=03  bitrate=900000    acc====0.7683090176731483
+resolution=320x240  model=03  bitrate=1000000    acc====0.7716244683020514
+resolution=320x240  model=02  bitrate=1100000    acc====0.728960342533382
+resolution=320x240  model=03  bitrate=1200000    acc====0.7778803185699007
+resolution=320x240  model=03  bitrate=1300000    acc====0.7799355194442716
+resolution=320x240  model=03  bitrate=1400000    acc====0.7827258747902452
+resolution=320x240  model=03  bitrate=1500000    acc====0.7847225981234021
+resolution=320x240  model=03  bitrate=1600000    acc====0.78267000896504
+resolution=320x240  model=03  bitrate=1700000    acc====0.7850494947758748
+resolution=320x240  model=03  bitrate=1800000    acc====0.7841822009199614
+resolution=320x240  model=03  bitrate=1900000    acc====0.786345330851106
+resolution=320x240  model=03  bitrate=2000000    acc====0.7876036186268149
+resolution=320x240  model=03  bitrate=2200000    acc====0.7898944796901245
+resolution=320x240  model=03  bitrate=2500000    acc====0.7899925797098339
+resolution=320x240  model=03  bitrate=2700000    acc====0.7905861631905763
+resolution=320x240  model=03  bitrate=3000000    acc====0.79122625220749
+resolution=320x240  model=03  bitrate=3500000    acc====0.7890691964071992
+resolution=320x240  model=03  bitrate=4000000    acc====0.7882293073782805
+resolution=320x240  model=03  bitrate=4500000    acc====0.7869727696114289
+resolution=320x240  model=03  bitrate=5000000    acc====0.7902132618572937
+resolution=320x240  model=03  bitrate=6000000    acc====0.789050381274831
+resolution=320x240  model=03  bitrate=7000000    acc====0.787698518499146
+resolution=320x240  model=03  bitrate=8000000    acc====0.7868847667994127
+resolution=320x240  model=03  bitrate=9000000    acc====0.7855717970035033
+resolution=320x240  model=03  bitrate=10000000    acc====0.7853649243485411
+resolution=320x240  model=03  bitrate=15000000    acc====0.7850469760770395
+resolution=192x144  model=03  bitrate=100000    acc====0.39732749410699725
+resolution=192x144  model=03  bitrate=200000    acc====0.5972681856905457
+resolution=192x144  model=03  bitrate=300000    acc====0.6723117981052765
+resolution=192x144  model=03  bitrate=400000    acc====0.7040700079768403
+resolution=192x144  model=03  bitrate=500000    acc====0.7170014872040563
+resolution=192x144  model=03  bitrate=600000    acc====0.7276537595714614
+resolution=192x144  model=03  bitrate=700000    acc====0.7345420927703536
+resolution=192x144  model=03  bitrate=800000    acc====0.734266296505427
+resolution=192x144  model=03  bitrate=900000    acc====0.7380393374741203
+resolution=192x144  model=03  bitrate=1000000    acc====0.7391251242222447
+resolution=192x144  model=02  bitrate=1100000    acc====0.6747723484245223
+resolution=192x144  model=03  bitrate=1200000    acc====0.7391635902055157
+resolution=192x144  model=03  bitrate=1300000    acc====0.7364741619089445
+resolution=192x144  model=03  bitrate=1400000    acc====0.7400852386628783
+resolution=192x144  model=03  bitrate=1500000    acc====0.7372304963267696
+resolution=192x144  model=03  bitrate=1600000    acc====0.7352485682019844
+resolution=192x144  model=03  bitrate=1700000    acc====0.7357575517629159
+resolution=192x144  model=03  bitrate=1800000    acc====0.7385512019036865
+resolution=192x144  model=03  bitrate=1900000    acc====0.7393465720499882
+resolution=192x144  model=03  bitrate=2000000    acc====0.7366920835088536
+resolution=192x144  model=03  bitrate=2200000    acc====0.7382242604991053
+resolution=192x144  model=03  bitrate=2500000    acc====0.7389370688547707
+resolution=192x144  model=03  bitrate=2700000    acc====0.7383368317902479
+resolution=192x144  model=03  bitrate=3000000    acc====0.7393316610350772
+resolution=192x144  model=03  bitrate=3500000    acc====0.7390706323811914
+resolution=192x144  model=03  bitrate=4000000    acc====0.7374957165562757
+resolution=192x144  model=03  bitrate=4500000    acc====0.7386535706069868
+resolution=192x144  model=03  bitrate=5000000    acc====0.7383914940591959
+resolution=192x144  model=03  bitrate=6000000    acc====0.7383120774440649
+resolution=192x144  model=03  bitrate=7000000    acc====0.7375906110797414
+resolution=192x144  model=03  bitrate=8000000    acc====0.7375906110797414
+resolution=192x144  model=03  bitrate=9000000    acc====0.7375906110797414
+resolution=192x144  model=03  bitrate=10000000    acc====0.7375906110797414
+resolution=192x144  model=03  bitrate=15000000    acc====0.7375906110797414
+resolution=128x96  model=03  bitrate=100000    acc====0.4925362445812756
+resolution=128x96  model=03  bitrate=200000    acc====0.6482871640092137
+resolution=128x96  model=03  bitrate=300000    acc====0.6733836135683963
+resolution=128x96  model=03  bitrate=400000    acc====0.6830885399394716
+resolution=128x96  model=03  bitrate=500000    acc====0.6935245653817083
+resolution=128x96  model=03  bitrate=600000    acc====0.6997987199710803
+resolution=128x96  model=03  bitrate=700000    acc====0.6984132667999129
+resolution=128x96  model=03  bitrate=800000    acc====0.6997314657966833
+resolution=128x96  model=03  bitrate=900000    acc====0.6964963768115943
+resolution=128x96  model=03  bitrate=1000000    acc====0.6979173896611787
+resolution=128x96  model=02  bitrate=1100000    acc====0.6312020179613348
+resolution=128x96  model=03  bitrate=1200000    acc====0.69828095581667
+resolution=128x96  model=03  bitrate=1300000    acc====0.6966509325732929
+resolution=128x96  model=03  bitrate=1400000    acc====0.697611815433244
+resolution=128x96  model=03  bitrate=1500000    acc====0.6968364426578714
+resolution=128x96  model=03  bitrate=1600000    acc====0.6981345255273826
+resolution=128x96  model=03  bitrate=1700000    acc====0.6967174652469684
+resolution=128x96  model=03  bitrate=1800000    acc====0.6971051844980417
+resolution=128x96  model=03  bitrate=1900000    acc====0.6993752662681234
+resolution=128x96  model=03  bitrate=2000000    acc====0.6989314245680706
+resolution=128x96  model=03  bitrate=2200000    acc====0.6986380829890145
+resolution=128x96  model=03  bitrate=2500000    acc====0.6984609030261204
+resolution=128x96  model=03  bitrate=2700000    acc====0.699016458581676
+resolution=128x96  model=03  bitrate=3000000    acc====0.6990721172087633
+resolution=128x96  model=03  bitrate=3500000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=4000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=4500000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=5000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=6000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=7000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=8000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=9000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=10000000    acc====0.6990324346690808
+resolution=128x96  model=03  bitrate=15000000    acc====0.6990324346690808
+resolution=88x72  model=03  bitrate=100000    acc====0.46137885061798106
+resolution=88x72  model=03  bitrate=200000    acc====0.5731947514183539
+resolution=88x72  model=03  bitrate=300000    acc====0.6015268971883879
+resolution=88x72  model=03  bitrate=400000    acc====0.6136266121731961
+resolution=88x72  model=03  bitrate=500000    acc====0.6186764002043506
+resolution=88x72  model=03  bitrate=600000    acc====0.6266751185322613
+resolution=88x72  model=03  bitrate=700000    acc====0.6261800032265871
+resolution=88x72  model=03  bitrate=800000    acc====0.6240025140490978
+resolution=88x72  model=03  bitrate=900000    acc====0.6264084724799012
+resolution=88x72  model=03  bitrate=1000000    acc====0.6273906814372652
+resolution=88x72  model=02  bitrate=1100000    acc====0.5684738892922123
+resolution=88x72  model=03  bitrate=1200000    acc====0.6269419595242577
+resolution=88x72  model=03  bitrate=1300000    acc====0.6270697704641803
+resolution=88x72  model=03  bitrate=1400000    acc====0.6278605352549452
+resolution=88x72  model=03  bitrate=1500000    acc====0.6276534645478744
+resolution=88x72  model=03  bitrate=1600000    acc====0.6272883851827951
+resolution=88x72  model=03  bitrate=1700000    acc====0.6271852105796205
+resolution=88x72  model=03  bitrate=1800000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=1900000    acc====0.6275423534367632
+resolution=88x72  model=03  bitrate=2000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=2200000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=2500000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=2700000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=3000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=3500000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=4000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=4500000    acc====0.6270661629605728
+
+
+resolution=1280x720  model=03  bitrate=30000    acc====0.003436853002070393
+
+resolution=1280x720  model=03  bitrate=50000    acc====0.003913043478260869
+resolution=1280x720  model=03  bitrate=60000    acc====0.00502415458937198
+resolution=1280x720  model=03  bitrate=80000    acc====0.01732574189095928
+resolution=854x480  model=03  bitrate=30000    acc====0.00629399585921325
+resolution=854x480  model=03  bitrate=50000    acc====0.007222567287784679
+resolution=854x480  model=03  bitrate=60000    acc====0.009894284459501851
+resolution=854x480  model=03  bitrate=80000    acc====0.0174440680092854
+resolution=600x360  model=03  bitrate=30000    acc====0.0253416149068323
+resolution=600x360  model=03  bitrate=50000    acc====0.03182295895960492
+resolution=600x360  model=03  bitrate=60000    acc====0.04478245184766923
+resolution=600x360  model=03  bitrate=80000    acc====0.08603147266811863
+resolution=480x270  model=03  bitrate=30000    acc====0.0067701863354037274
+resolution=480x270  model=03  bitrate=50000    acc====0.06049168705690445
+resolution=480x270  model=03  bitrate=60000    acc====0.09001852001230884
+resolution=480x270  model=03  bitrate=80000    acc====0.15304741439834604
+resolution=320x240  model=03  bitrate=30000    acc====0.03769009975531715
+resolution=320x240  model=03  bitrate=50000    acc====0.10394716463660562
+resolution=320x240  model=03  bitrate=60000    acc====0.15513705526127883
+resolution=320x240  model=03  bitrate=80000    acc====0.24850605209145585
+resolution=192x144  model=03  bitrate=30000    acc====0.16001606347413802
+resolution=192x144  model=03  bitrate=50000    acc====0.25379446192179106
+resolution=192x144  model=03  bitrate=60000    acc====0.2937016863398851
+resolution=192x144  model=03  bitrate=80000    acc====0.34033667792984557
+resolution=128x96  model=03  bitrate=30000    acc====0.25265498373262346
+resolution=128x96  model=03  bitrate=50000    acc====0.3281085933275375
+resolution=128x96  model=03  bitrate=60000    acc====0.35583694830589246
+resolution=128x96  model=03  bitrate=80000    acc====0.4301822073141948
+resolution=88x72  model=03  bitrate=30000    acc====0.2213637304724261
+resolution=88x72  model=03  bitrate=50000    acc====0.2946221532091097
+resolution=88x72  model=03  bitrate=60000    acc====0.34231510759771633
+resolution=88x72  model=03  bitrate=80000    acc====0.39482116192985767
+resolution=88x72  model=03  bitrate=5000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=6000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=7000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=8000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=9000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=10000000    acc====0.6270661629605728
+resolution=88x72  model=03  bitrate=15000000    acc====0.6270661629605728
+resolution=192x144  model=03  bitrate=10000    acc====0.012311311876529268
+resolution=192x144  model=03  bitrate=20000    acc====0.0744592195244369
+resolution=128x96  model=03  bitrate=10000    acc====0.054260085325302715
+resolution=128x96  model=03  bitrate=20000    acc====0.18457971014492758
+resolution=88x72  model=03  bitrate=10000    acc====0.05332141288663027
+resolution=88x72  model=03  bitrate=20000    acc====0.1547658573310747
+resolution=320x240  model=03  bitrate=1100000    acc====0.7770403293613343
+resolution=600x360  model=03  bitrate=2500000    acc====0.8193700756689626
+resolution=600x360  model=03  bitrate=2500000    acc====0.8193700756689626
+
+
+
+resolution=192x144  model=03  bitrate=2000000    acc====0.8156536018381729      模型尺寸360 600
+resolution=1280x720  model=03  bitrate=2000000    acc====0.7974192731443758    模型尺寸360 600
+resolution=1280x720  model=03  bitrate=2000000    acc====0.72486502753975       模型尺寸  720 1280
+resolution=600x360  model=03  bitrate=2000000    acc====0.8180829313355343      模型尺寸  720 1280
+resolution=192x144  model=03  bitrate=2000000    acc====0.808795738940149       模型尺寸  720 1280
+
+
+
+resolution=320x240  model=03  bitrate=1000000    acc====0.8195783369729587      模型尺寸360 600
+resolution=128x96  model=03  bitrate=1000000    acc====0.7717176303107981        模型尺寸360 600
+resolution=480x270  model=03  bitrate=1000000    acc====0.7893284462999899        模型尺寸360 600
+resolution=320x240  model=03  bitrate=1000000    acc====0.8195783369729587        模型尺寸360 600
+resolution=192x144  model=03  bitrate=1000000    acc====0.8101925972108074        模型尺寸360 600
+
+resolution=854x480  model=03  bitrate=1000000    acc====0.6685376301670676      模型尺寸720 1280
+resolution=600x360  model=03  bitrate=1000000    acc====0.6958164252247407      模型尺寸720 1280
+resolution=480x270  model=03  bitrate=1000000    acc====0.7546581699225597      模型尺寸720 1280
+resolution=320x240  model=03  bitrate=1000000    acc====0.8135304705330189      模型尺寸720 1280
+resolution=192x144  model=03  bitrate=1000000    acc====0.803244610979083        模型尺寸720 1280
+resolution=128x96  model=03  bitrate=1000000    acc====0.7287812911725956        模型尺寸720 1280
+
+resolution=1280x720  model=03  bitrate=2000000   modelsize=600x360    acc====0.7974192731443758
+resolution=854x480  model=03  bitrate=2000000   modelsize=600x360    acc====0.795785948880517
+resolution=480x270  model=03  bitrate=2000000   modelsize=600x360    acc====0.824892100800291
+resolution=320x240  model=03  bitrate=2000000   modelsize=600x360    acc====0.8406541049274364
+resolution=192x144  model=03  bitrate=2000000   modelsize=600x360    acc====0.8156536018381729
+resolution=128x96  model=03  bitrate=2000000   modelsize=600x360    acc====0.7712423799719113
+
+resolution=854x480  model=03  bitrate=2000000   modelsize=1280x720    acc====0.7764705187156694
+resolution=600x360  model=03  bitrate=2000000   modelsize=1280x720    acc====0.8180829313355343
+resolution=480x270  model=03  bitrate=2000000   modelsize=1280x720    acc====0.8353787768390053
+resolution=320x240  model=03  bitrate=2000000   modelsize=1280x720    acc====0.8537954265674563
+resolution=192x144  model=03  bitrate=2000000   modelsize=1280x720    acc====0.808795738940149
+resolution=128x96  model=03  bitrate=2000000   modelsize=1280x720    acc====0.7341776774629682
+
+resolution=1280x720  model=03  bitrate=3000000   modelsize=600x360    acc====0.7994403266570848
+resolution=854x480  model=03  bitrate=3000000   modelsize=600x360    acc====0.8101209621060619
+resolution=600x360  model=03  bitrate=3000000   modelsize=600x360    acc====0.8204860355168594
+resolution=480x270  model=03  bitrate=3000000   modelsize=600x360    acc====0.8346075917063334
+resolution=320x240  model=03  bitrate=3000000   modelsize=600x360    acc====0.8375951881746134
+resolution=192x144  model=03  bitrate=3000000   modelsize=600x360    acc====0.8180705216342444
+resolution=128x96  model=03  bitrate=3000000   modelsize=600x360    acc====0.7714806574472018
+
+resolution=854x480  model=03  bitrate=3000000   modelsize=1280x720    acc====0.801267657943773
+resolution=600x360  model=03  bitrate=3000000   modelsize=1280x720    acc====0.8371536587581441
+resolution=480x270  model=03  bitrate=3000000   modelsize=1280x720    acc====0.8396968048325051
+resolution=320x240  model=03  bitrate=3000000   modelsize=1280x720    acc====0.8572757346241089
+resolution=192x144  model=03  bitrate=3000000   modelsize=1280x720    acc====0.8115308132902713
+resolution=128x96  model=03  bitrate=3000000   modelsize=1280x720    acc====0.7333138427647179
+
